@@ -1,3 +1,7 @@
+---
+modified: 2021-05-01T22:55:29-04:00
+---
+
 # Cool Creek
 
 ## Improvements
@@ -6,7 +10,12 @@
 - Bathrooms 10k
 - Walls 2k
 - Flooring / Carpet 6k
+   - Dark Carpet Living Room and Dining Room
+   - LVP Basement
+   - Keep Trim 
+   - Repaint
 - Blacktop Driveway
+
 
 ## TODO
 
